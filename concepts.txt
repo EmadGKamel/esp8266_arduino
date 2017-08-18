@@ -1,0 +1,11 @@
+What is ESP8266?
+-NOT a WIFI module, but it is actually a microcontroller.
+-There are many types of ESP8266 module available ranging from ESP8266-01 to ESP8266-12
+-------------------------------------------------
+Basics of WiFi:
+Transfer Control Protocol (TCP):used in networks where there is a requirement high reliability.
+User Datagram Protocol (UDP):used in places where speed has high priority than reliability.
+Access Point (AP) and Station (STA):which is sourcing the internet connection is the Access Point (AP) and phone which is using the internet is called the Station (STA).
+Service Set Identifier (SSID):The name of the Wi-Fi Network is called its SSID.
+Application Programming Interface (API):API is a messenger which takes in your requests, processes it and returns your system the desired result.
+Web Server:A web Server is something which is responsible to display the contents of a website.
